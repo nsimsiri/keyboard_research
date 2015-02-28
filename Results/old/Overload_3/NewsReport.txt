@@ -1,0 +1,75 @@
+Accumulated Data Report
+2014-06-10 22:10:13
+TOTAL SIZE: 29657
+OVERLOAD DIST: 6634536
+OVERLOAD KEYPRESS: 32438
+CONVENTIONAL DIST: 7417476
+CONVENTIONAL KEYPRESS: 32021
+OVERLOAD SEEK: 30201
+CONVENTIONAL SEEK: 31616
+
+Overload Frequency Table:
+ฎ : 5.000000
+ฐ : 48.000000
+ษ : 69.000000
+ศ : 83.000000
+ซ : 163.000000
+๊ : 39.000000
+ญ : 42.000000
+์ : 209.000000
+ฏ : 26.000000
+. : 229.000000
+ฑ : 2.000000
+ฉ : 17.000000
+ณ : 109.000000
+ฒ : 4.000000
+ฯ : 20.000000
+ฬ : 1.000000
+ู : 227.000000
+ธ : 66.000000
+ฮ : 18.000000
+, : 16.000000
+
+Average Saved Distance Table:
+ฎ : distance saved: 312.200000, freq: 5.000000 
+ฐ : distance saved: 649.770833, freq: 48.000000 
+ษ : distance saved: 351.376812, freq: 69.000000 
+ศ : distance saved: 370.831325, freq: 83.000000 
+ซ : distance saved: 221.055215, freq: 163.000000 
+๊ : distance saved: 38.230769, freq: 39.000000 
+ญ : distance saved: 420.595238, freq: 42.000000 
+์ : distance saved: 158.071770, freq: 209.000000 
+ฏ : distance saved: -140.692308, freq: 26.000000 
+. : distance saved: 220.288210, freq: 229.000000 
+ฑ : distance saved: 465.000000, freq: 2.000000 
+ฉ : distance saved: -2.058824, freq: 17.000000 
+ณ : distance saved: 304.348624, freq: 109.000000 
+ฒ : distance saved: 541.000000, freq: 4.000000 
+ฯ : distance saved: 366.000000, freq: 20.000000 
+ฬ : distance saved: 635.000000, freq: 1.000000 
+ู : distance saved: 181.440529, freq: 227.000000 
+ธ : distance saved: 246.681818, freq: 66.000000 
+ฮ : distance saved: 122.055556, freq: 18.000000 
+, : distance saved: 527.562500, freq: 16.000000 
+
+Total Saved Distance:
+ฎ: 1561.0
+ฉ: -35.0
+ษ: 24245.0
+ศ: 30779.0
+ซ: 36032.0
+๊: 1491.0
+ญ: 17665.0
+์: 33037.0
+ฏ: -3658.0
+.: 50446.0
+ฑ: 930.0
+ฐ: 31189.0
+ณ: 33174.0
+ฒ: 2164.0
+ฯ: 7320.0
+ฬ: 635.0
+ู: 41187.0
+ธ: 16281.0
+ฮ: 2197.0
+,: 8441.0

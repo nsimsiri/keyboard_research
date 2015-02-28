@@ -1,0 +1,30 @@
+Accumulated Data Report
+2014-06-10 21:42:59
+TOTAL SIZE: 49
+OVERLOAD DIST: 9335
+OVERLOAD KEYPRESS: 67
+CONVENTIONAL DIST: 15075
+CONVENTIONAL KEYPRESS: 59
+OVERLOAD SEEK: 43
+CONVENTIONAL SEEK: 58
+
+Overload Frequency Table:
+ฑ : 1.000000
+ศ : 5.000000
+ฒ : 1.000000
+ฏ : 2.000000
+ฮ : 2.000000
+
+Average Saved Distance Table:
+ฑ : distance saved: 661.000000, freq: 1.000000 
+ศ : distance saved: 504.600000, freq: 5.000000 
+ฒ : distance saved: 801.000000, freq: 1.000000 
+ฏ : distance saved: 289.000000, freq: 2.000000 
+ฮ : distance saved: 364.500000, freq: 2.000000 
+
+Total Saved Distance:
+ฑ: 661.0
+ศ: 2523.0
+ฒ: 801.0
+ฏ: 578.0
+ฮ: 729.0
